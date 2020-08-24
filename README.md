@@ -1,4 +1,4 @@
-install method 安装方式 ： 
+install： 
 
 devtools::install_github("wqssf/pltPcorrelation")
 
