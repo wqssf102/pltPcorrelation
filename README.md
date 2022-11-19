@@ -1,4 +1,4 @@
 安装： 
 
-devtools::install_github("wqssf/pltPcorrelation")
+devtools::install_github("wqssf102/pltPcorrelation")
 
